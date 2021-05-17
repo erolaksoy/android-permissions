@@ -10,7 +10,7 @@
         android:id="@+id/imageView"
         android:layout_width="256dp"
         android:layout_height="256dp"
-        tools:src="@drawable/tap_to_select"
+        android:src="@drawable/tap_to_select"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
